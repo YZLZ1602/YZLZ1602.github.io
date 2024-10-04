@@ -24,9 +24,9 @@ author:
   avatar           : "profile1.png"
   name             : "Zhenlongzhi Yan"
   pronouns         : # example: "she/her"  
-  bio              : "Happy life"
+  bio              : "Xi'an Jiaotong-Liverpool University"
   location         : "China SuZhou"
-  employer         : "Red Brick University"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "Zhenlongzhi.Yan22@student.xjtlu.edu.cn" 
 
