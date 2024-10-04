@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a third year undergraduate student from [Xi’an Jiaotong–Liverpool University](https://www.xjtlu.edu.cn/).
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [XX's Curriculum Vitae](../assets/CV.pdf).
 
 [Email](Zhenlongzhi.yan22@student.xjtlu.edu.cn) / [Github](https://github.com/YZLZ1602) / [Wechat](../images/wechat.jpg) 
 
