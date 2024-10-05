@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of Applied Mathematics, expected to complete in 2026
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Summer 2024: 2024 Participation in the "Competency-Ability Quality in Multiple Industries and Functions" off-campus project led by Professor Xu Ming at Xi'an Jiaotong-Liverpool University
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
