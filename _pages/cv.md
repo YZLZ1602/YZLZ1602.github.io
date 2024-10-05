@@ -16,31 +16,11 @@ Education
 
 Work experience
 ======
-* Summer 2024: 2024 Participation in the "Competency-Ability Quality in Multiple Industries and Functions" off-campus project led by Professor Xu Ming at Xi'an Jiaotong-Liverpool University
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2024: Participation in the "Competency-Ability Quality in Multiple Industries and Functions" off-campus project led by Professor Xu Ming at Xi'an Jiaotong-Liverpool University
+  * Duties includes: Conducted interviews with corporate management, data organization and collection post-interview
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
+* Summer 2023: Internship in the Human Resources Department at Juntian Chongmo Co., Ltd. in Taizhou, Zhejiang
+  * Duties included: Executed basic office functions
+ 
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
