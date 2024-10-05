@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Summer 2024: Participation in the "Competency-Ability Quality in Multiple Industries and Functions" off-campus project led by Professor Xu Ming at Xi'an Jiaotong-Liverpool University
+* Summer 2024: Participation in the "Competency-Ability Quality in Multiple Industries and Functions" off-campus project 
   * Duties includes: Conducted interviews with corporate management, data organization and collection post-interview
   
 
