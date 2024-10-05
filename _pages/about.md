@@ -11,6 +11,6 @@ I'm a third year undergraduate student from [Xi’an Jiaotong–Liverpool Univer
 
 You can find my CV here: [Zhenlongzhi's Curriculum Vitae](../assets/CV.pdf).
 
-[Email](Zhenlongzhi.yan22@student.xjtlu.edu.cn) / [Github](https://github.com/YZLZ1602) / [Wechat](../images/wechat.jpg) 
+[Email](mailto:Zhenlongzhi.yan22@student.xjtlu.edu.cn) / [Github](https://github.com/YZLZ1602) / [Wechat](../images/wechat.jpg) 
 
                         
